@@ -1,0 +1,25 @@
+=== BANKING POLICY DOCUMENT ===
+Document ID: DOC-BASEL3-CAPITAL-2024
+Document Name: RBI Prudential Framework on Basel III Capital Adequacy & Liquidity Ratios
+Authority: Reserve Bank of India Department of Regulation
+Effective Date: 2024-04-01
+Version: 5.0
+Category: Prudential Regulation
+
+SECTION 1: MINIMUM CAPITAL ADEQUACY RATIOS (CRAR)
+1.1 Capital to Risk-Weighted Assets Ratio (CRAR):
+- Commercial banks in India must maintain a minimum Total CRAR of 9.00% of Risk-Weighted Assets (RWA).
+- Including the Capital Conservation Buffer (CCB) of 2.50%, the minimum total capital requirement is 11.50%.
+
+1.2 Tier 1 & Common Equity Tier 1 (CET1) Limits:
+- Common Equity Tier 1 (CET1) Minimum: 5.50% of RWA.
+- Total Tier 1 Capital Minimum: 7.00% of RWA.
+- Additional Tier 1 (AT1) Capital Ceiling: Up to 1.50% of RWA.
+- Tier 2 Capital Ceiling: Up to 2.00% of RWA.
+
+SECTION 2: LIQUIDITY COVERAGE RATIO (LCR) & NET STABLE FUNDING RATIO (NSFR)
+2.1 Liquidity Coverage Ratio (LCR):
+- Banks are required to maintain a minimum LCR of 100% on an ongoing basis. High-Quality Liquid Assets (HQLA) must be sufficient to cover total net cash outflows over a 30-day stress period.
+
+2.2 Net Stable Funding Ratio (NSFR):
+- Minimum prescribed NSFR is 100%. Available Stable Funding (ASF) must equal or exceed Required Stable Funding (RSF) over a 1-year horizon.

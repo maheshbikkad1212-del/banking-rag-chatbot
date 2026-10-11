@@ -1,0 +1,38 @@
+=== BANKING POLICY DOCUMENT ===
+Document ID: DOC-RBI-LOAN-2024-V2
+Document Name: Master Direction on Home & Personal Loan Eligibility Guidelines
+Authority: Reserve Bank of India & Credit Risk Committee
+Effective Date: 2024-10-01
+Version: 2.4
+Category: Retail Credit Policy
+
+SECTION 1: HOME LOAN ELIGIBILITY & LTV RATIOS
+1.1 Maximum Loan-to-Value (LTV) Ratio:
+- For home loans up to ₹30 Lakhs: Maximum LTV ratio allowed is 90%. Borrowers must contribute at least 10% as margin money.
+- For home loans between ₹30 Lakhs and ₹75 Lakhs: Maximum LTV ratio allowed is 80%.
+- For home loans above ₹75 Lakhs: Maximum LTV ratio allowed is 75%.
+
+1.2 Debt-to-Income (DTI) & EMI-to-NMI Ratio:
+- The Maximum Debt-to-Income (DTI) ratio for salaried applicants is capped at 50% of Net Monthly Income (NMI).
+- For self-employed individuals, DTI must not exceed 55% of audited net annual income divided by 12.
+
+1.3 Age and Tenure Limits:
+- Minimum age of applicant at loan origination: 21 years.
+- Maximum age of applicant at loan maturity: 65 years for salaried employees, 70 years for self-employed individuals.
+- Maximum loan repayment tenure is 30 years or (Retirement Age - Current Age), whichever is lower.
+
+SECTION 2: PERSONAL LOAN ELIGIBILITY & INTEREST RATES
+2.1 Minimum Net Monthly Income:
+- Salaried individuals working with Tier-1 corporates: Minimum NMI of ₹25,000.
+- Salaried individuals working with Tier-2/Unlisted firms: Minimum NMI of ₹35,000.
+
+2.2 Personal Loan Interest Rates:
+- Standard personal loan interest rates range from 10.50% to 14.75% per annum depending on CIBIL score.
+- CIBIL Score 775+: Benchmark Rate 10.50% p.a.
+- CIBIL Score 725-774: Benchmark Rate 11.75% p.a.
+- CIBIL Score 675-724: Benchmark Rate 13.50% p.a.
+- CIBIL Score below 675: Application rejected or referred to Special Credit Approval Committee.
+
+SECTION 3: FORECLOSURE & PREPAYMENT PENALTY
+3.1 Floating Rate Loans: No foreclosure charges or prepayment penalties shall be levied on floating-rate individual housing and personal loans as per RBI Master Circular 2024.
+3.2 Fixed Rate Loans: Prepayment penalty of 2.00% on the outstanding principal balance applies for fixed-rate loans foreclosed within 3 years of disbursement.

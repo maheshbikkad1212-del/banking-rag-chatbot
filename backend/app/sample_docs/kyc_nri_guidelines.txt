@@ -1,0 +1,34 @@
+=== BANKING POLICY DOCUMENT ===
+Document ID: DOC-KYC-NRI-2024-V3
+Document Name: Master Guidelines on Know Your Customer (KYC) & NRI Account Onboarding
+Authority: Financial Intelligence Unit & Compliance Department
+Effective Date: 2024-11-15
+Version: 3.0
+Category: Regulatory Compliance
+
+SECTION 1: MANDATORY KYC DOCUMENTS FOR RESIDENT INDIVIDUALS
+1.1 Officially Valid Documents (OVD) for Identity & Address Proof:
+- Valid Indian Passport (unexpired)
+- Aadhaar Card / e-Aadhaar with masked UID number
+- Permanent Account Number (PAN) Card or Form 60
+- Voter ID Card issued by Election Commission of India
+- Driving Licence (unexpired)
+- NREGA Job Card duly signed by an officer of the State Government.
+
+1.2 High-Risk Customer Periodic KYC Re-verification:
+- High-Risk Customers: Mandatory re-verification every 2 years.
+- Medium-Risk Customers: Mandatory re-verification every 8 years.
+- Low-Risk Customers: Mandatory re-verification every 10 years.
+
+SECTION 2: NON-RESIDENT INDIAN (NRI) ACCOUNT ONBOARDING NORMS
+2.1 NRE vs NRO Account Distinction:
+- Non-Resident External (NRE) Account: Maintained in Indian Rupees, fully repatriable outside India. Interest earned is completely tax-exempt in India under IT Act Section 10(4)(ii).
+- Non-Resident Ordinary (NRO) Account: Used to hold income earned in India (rent, dividends, pension). Interest is subject to Tax Deducted at Source (TDS) at 30% plus applicable surcharge.
+
+2.2 Mandatory Documents for NRI Account Opening:
+1. Copy of valid Passport displaying visa stamps and departure details.
+2. Proof of NRI status: Valid Employment Visa, Work Permit, Residence Permit, or Overseas Student Visa.
+3. Overseas Address Proof: Foreign Utility Bill (Water/Electricity), Bank Statement from overseas bank (less than 3 months old), or Employer Certificate.
+4. Permanent Account Number (PAN) or Form 60.
+5. Overseas Tax Identification Number (TIN) or SSN as per FATCA / CRS regulations.
+6. All foreign documents must be self-attested and attested by an Indian Embassy / Consulate, Notary Public, or Overseas Branch of an Indian Scheduled Commercial Bank.

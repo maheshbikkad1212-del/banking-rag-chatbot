@@ -1,0 +1,27 @@
+=== BANKING POLICY DOCUMENT ===
+Document ID: DOC-FD-RATES-2025-Q1
+Document Name: Retail Fixed Deposit Interest Rates Schedule (Q1 2025)
+Authority: Asset Liability Management Committee (ALCO)
+Effective Date: 2025-01-01
+Version: 4.1
+Category: Liabilities & Treasury Policy
+
+SECTION 1: DOMESTIC RETAIL FIXED DEPOSIT RATES (< ₹2 CRORE)
+1.1 Standard Rate Matrix by Tenure:
+- 7 days to 45 days: 3.50% p.a. (General Public) | 4.00% p.a. (Senior Citizens)
+- 46 days to 179 days: 4.75% p.a. (General Public) | 5.25% p.a. (Senior Citizens)
+- 180 days to 269 days: 6.00% p.a. (General Public) | 6.50% p.a. (Senior Citizens)
+- 270 days to 1 year: 6.75% p.a. (General Public) | 7.25% p.a. (Senior Citizens)
+- 1 year to 2 years: 7.10% p.a. (General Public) | 7.60% p.a. (Senior Citizens)
+- 444 Days Special Scheme ("Golden Yield"): 7.35% p.a. (General Public) | 7.85% p.a. (Senior Citizens) | 7.95% p.a. (Super Senior Citizens 80+)
+- 3 years to 5 years: 6.90% p.a. (General Public) | 7.40% p.a. (Senior Citizens)
+- 5 years to 10 years (Tax Saver FD): 6.80% p.a. (General Public) | 7.30% p.a. (Senior Citizens)
+
+SECTION 2: SENIOR & SUPER SENIOR CITIZEN BENEFIT RULES
+2.1 Senior Citizen Premium: Individuals aged 60 years and above are eligible for an additional interest rate of +0.50% p.a. across all deposit tenures of 180 days and above.
+2.2 Super Senior Citizen Premium: Individuals aged 80 years and above receive an additional +0.10% p.a. over the Senior Citizen rate (total +0.60% p.a. over general public rate) for tenures of 1 year and above.
+
+SECTION 3: PREMATURE WITHDRAWAL & PENALTY NORMS
+3.1 For deposits withdrawn before completion of 7 days: No interest shall be payable.
+3.2 For deposits closed prior to maturity after 7 days: A penalty of 1.00% shall be deducted from the applicable contracted interest rate for the period the deposit actually remained with the bank.
+3.3 Tax-Saver Deposits (5-year lock-in): Premature withdrawal is strictly prohibited prior to completion of 5 years as per Income Tax Act regulations.
